@@ -1,11 +1,7 @@
 .top-container{
     background-color: #e4f9f5;
 }
-.bottomcontainer{
-    background-color: blueviolet;
-    height: 200px;
-    width: 200px;
-}
+
 body{
     margin: 0;
     text-align: center;
@@ -93,4 +89,25 @@ h3{
     width: 25%;
     float: left;
     margin-right: 30px;
+}
+.contact-me{
+    background-color: #e4f9f5;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.bottomcontainer{
+    background-color: #e4f9f5;
+    height: 150px;
+    font-size: 1.5rem;
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: #11999E;
+    /*margin-left: 10px;
+    margin-right: 10px;*/
+}
+.link{
+    margin-left: 10px;
+    margin-right: 10px;
 }
