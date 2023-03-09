@@ -52,3 +52,45 @@ h2 {
 .middlecontainer{
     padding: 100px 0px 100px 0px;
 }
+.intro{
+    width: 30%;
+    margin: auto;
+    
+}
+p{
+    line-height: 2;
+    font-size: 1.5rem;
+}
+hr{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;     
+      
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #428c8c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.programming-skill{
+    width: 25%;
+    float: left;
+    
+}
+.programming-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
